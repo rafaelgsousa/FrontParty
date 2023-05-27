@@ -6,8 +6,8 @@
         <h2 id="nav-title">Party Time</h2>
         <div id="nav-links">
             <router-link to="/">Home</router-link>
-            <router-link to="/about">Enter</router-link>
-            <router-link to="/about">Register</router-link>
+            <router-link to="/about">About</router-link>
+            <router-link to="/register">Register</router-link>
         </div>
 
     </div>
